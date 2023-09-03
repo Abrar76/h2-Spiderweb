@@ -1,11 +1,1 @@
-# A05:2021 – Security Misconfiguration
-## Summary:
-A security misconfiguration occurs when services are delivered with insecure default settings or when security choices are not defined in a way that maximizes security. This is possible across all computing platforms, software programs, cloud services, and network infrastructure. Few common mistakes are:
-1. Unnecessary features are enabled or installed like ports, services and account.
-2. Missing any component of the application stack without the necessary security protection.
-3. Error handling reveals stack traces or other overly informative error messages.
-4. The default accounts are still active, and their passwords are unchanged.
-5. The software or applications are out of date or vulnerable.
-6. Missing important upgraded systems or latest security features are disabled or not configured
-## Prevention
-OWASP recommendations to avoid such security misconfiguration issues are implementing repeatable, automated security hardening processes, segmenting the application architecture, and keeping the platform minimal or limited. Also sending the security directives to clients, e.g. security headers.
+
